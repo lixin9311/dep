@@ -1,6 +1,6 @@
 package dep
 
-import "lixin.io/hello"
+import "lixin.io/hello/src"
 
 func Say() *hello.English {
 	return hello.Say()
