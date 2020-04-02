@@ -1,6 +1,6 @@
 package dep
 
-import "hello"
+import "github.com/lixin9311/hello"
 
 func Say() *hello.English {
 	return hello.Say()
