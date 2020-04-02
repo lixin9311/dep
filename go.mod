@@ -1,5 +1,5 @@
-module github.com/lixin9311/dep
+module lixin.io/dep
 
 go 1.14
 
-require github.com/lixin9311/hello v0.0.1
+require lixin.io/hello v0.1.0
